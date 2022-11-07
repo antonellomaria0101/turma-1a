@@ -11,7 +11,11 @@ p {
 }
 #5S {
     width: 150px;
-    
+    height: 150px;
+}
+#Significado {
+    width: 30%;
+    height: 30%;
 }
 
 }
